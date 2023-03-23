@@ -1,0 +1,15 @@
+.active {
+  stroke-width: 3px;
+}
+
+.inactive {
+  stroke-width: 1px;
+  opacity: 0.5;
+}
+
+svg {
+  background-color: beige;
+  width: 1200px;
+  height: 700px;
+  margin-left: 200px;
+}
